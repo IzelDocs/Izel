@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Izel'
+project = 'Izel Documentation'
 copyright = '2021, Izel Documentation'
 author = 'Izel Documentation'
 
