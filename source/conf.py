@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Izel'
-copyright = '2021, Fredy Gonzalez'
-author = 'Fredy Gonzalez'
+project = 'Izel Documentation'
+copyright = '2021, Izel Documentation'
+author = 'Izel Documentation'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -47,7 +47,7 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'sphinx_book_theme'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
